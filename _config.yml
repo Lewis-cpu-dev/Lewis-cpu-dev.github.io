@@ -7,7 +7,11 @@ plugins:
   - jemoji
 
 permalink: /:year/:month/:day/:title/
-
+name: "Ziyi Rong"
+avatar_url: "/assets/avatar.png"
+bio: "M.S. in Mechanical Engineering, UIUC. Research in RL, Robotics, and Reliability."
+email: "ziyi2@illinois.edu"
+location: "Illinois, USA"
 defaults:
   -
     scope:
